@@ -1,5 +1,9 @@
-# 💫 About Me:
-📝 I am an Entry Level SWE | Full-Stack Developer | AI Enthusiast<br><br>💬 Ask me about C# | ASP.NET Core | Javascript | C/C++ | HTML | CSS | ReactJs | jquery | ASP.NET | Bootstrap | Tailwind | SQL server<br><br><p style="margin: 10px 0;">
+<h1>💫 About Me:</h1>
+<p>📝 I am an Entry Level SWE | Full-Stack Developer | AI Enthusiast</p>
+
+<p>💬 Ask me about C# | ASP.NET Core | Javascript | C/C++ | HTML | CSS | ReactJs | jquery | ASP.NET | Bootstrap | Tailwind | SQL server</p>
+
+<p style="margin: 10px 0;">
     📫 How to reach me: 
     <a href="mailto:nics.nimavat@gmail.com" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">nics.nimavat@gmail.com</a>
 </p>
@@ -7,6 +11,7 @@
     📄 Know about my experiences: 
     <a href="https://drive.google.com/file/d/1ZzKq0yhGgM1S9bXBxUuXIUHIj_ZgdqNM/view?usp=sharing" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">View Resume</a>
 </p>
+
 
 <h2 style="margin: 10px 0;">🌐 Socials:</h2>
 <a href="https://linkedin.com/in/Nikhil Nimavat" style="display: inline-block; padding: 10px 15px;">
