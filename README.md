@@ -44,7 +44,7 @@
 
 
 
-<h2 style="margin: 10px 0;">🌐 Socials:</h2>
+<br><br><h2 style="margin: 10px 0;">🌐 Socials:</h2>
 <p>
     <a href="https://linkedin.com/in/Nikhil-Nimavat" style="display: inline-block;">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -52,7 +52,7 @@
     <a href="https://nick-n9.github.io/3D-Portfolio/" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white" alt="Portfolio" />
     </a>
-</p>
+</p><br><br>
 
 
 
