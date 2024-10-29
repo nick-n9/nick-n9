@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://nick-n9.github.io/3D-Portfolio/" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=web&logoColor=white" alt="Portfolio" />
+        <img src="[https://img.shields.io/badge/Portfolio-%23000000.svg?logo=web&logoColor=white](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=letter-n&logoColor=white)" alt="Portfolio" />
     </a>
 </p>
 
