@@ -10,8 +10,6 @@
   </p>
 </div>
 
-
-
 <h1>💫 About Me:</h1>
 <p>📝 I am an Entry Level SWE | Full-Stack Developer | AI Enthusiast</p>
 
