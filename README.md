@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://drive.google.com/file/d/12wQ2PZuLOP5ckks88DphZAK7tZ54x_C2/view?usp=sharing.png" width=400 style="display: block; margin: 0 auto"/>
+</p>
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/nikhil-nimavat-nick-n9/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://nick-n9.github.io/3D-Portfolio/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/portfolio.png?raw=true"></a>&nbsp;&nbsp; 
+    <a href="mailto:nics.nimavat@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+
+
 <h1>💫 About Me:</h1>
 <p>📝 I am an Entry Level SWE | Full-Stack Developer | AI Enthusiast</p>
 
@@ -44,20 +58,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-
-
-
-<br><h2 style="margin: 10px 0;">🌐 Socials:</h2>
-<p>
-    <a href="https://linkedin.com/in/Nikhil-Nimavat" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://nick-n9.github.io/3D-Portfolio/" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white" alt="Portfolio" />
-    </a>
-</p><br>
-
 
 
 # 📊 GitHub Stats:
