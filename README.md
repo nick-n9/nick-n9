@@ -5,7 +5,7 @@
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/nikhil-nimavat-nick-n9/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://nick-n9.github.io/3D-Portfolio/"><img height="30" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"></a>&nbsp;&nbsp;
+    <a href="https://nick-n9.github.io/3D-Portfolio/"><img height="30" src="https://e7.pngegg.com/pngimages/862/640/png-clipart-computer-icons-icon-design-portfolio-portafolio-text-share-icon.png"></a>&nbsp;&nbsp;
     <a href="mailto:nics.nimavat@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
